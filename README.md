@@ -1,0 +1,2 @@
+# MENENTUKAN-BILANGAN-GANJIL-GENAP
+Tugas algoritma 2
